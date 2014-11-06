@@ -13,8 +13,9 @@ class SALES_CONTEXT
 class PRODUCT
 {
 	characteristics
-		RFC_MATNR			invisible,
-		RFC_BASE_UOM		invisible,
+		 RFC_MATNR			invisible
+		,RFC_BASE_UOM		invisible
+		,RFC_QUANTITY		invisible
 }
 
 
